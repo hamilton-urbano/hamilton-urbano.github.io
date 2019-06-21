@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *
 * ======================================================= */
 body {
@@ -1390,6 +1390,10 @@ form label {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.hide {
+	display:none;
 }
 
 /*# sourceMappingURL=style.css.map */
